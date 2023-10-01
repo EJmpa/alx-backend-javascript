@@ -1,5 +1,3 @@
-// 0-constants.js
-
 export function taskFirst() {
   const task = 'I prefer const when I can.'; // Use const for variables that don't change
   return task;
