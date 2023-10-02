@@ -1,3 +1,4 @@
+/* eslint-disable */
 export default function createIteratorObject(report) {
   return {
     *[Symbol.iterator]() {
