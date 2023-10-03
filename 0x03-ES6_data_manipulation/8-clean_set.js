@@ -1,6 +1,6 @@
 function cleanSet(set, startString) {
   if (startString === '') {
-    return null; // You can return any appropriate value, such as null or an empty string.
+    return ''; // You can return any appropriate value, such as null or an empty string.
   }
 
   // Use the spread operator (...) to convert the Set to an array.
